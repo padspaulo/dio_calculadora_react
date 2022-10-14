@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calculadora desenvolvida em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Desafio digital Innovation one - Calculadora em react
 
 ## Available Scripts
 
